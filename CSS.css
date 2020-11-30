@@ -1,0 +1,68 @@
+body{
+background-color:#FBA54F;
+margin-left:200px;
+margin-right:200px;
+}
+
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav: hover {
+    background-color: #111;
+}
+
+.competences{
+padding:8px;
+padding-bottom:30px;
+width : 1889px;
+height:auto;
+background-color : #3A3735;
+color : white;
+}
+
+.titre{
+margin:0;
+padding-top:8px; /*marge du dessus*/
+padding-bottom:30px;/*marge du dessous*/
+font-size : 40px;
+color: white;
+}
+
+.experience{
+padding:8px;
+width : 1889px;
+height:auto;
+}
+
+.titre2{
+font-size : 40px;
+}
+
+.formation{
+padding:8px;
+width : 1889px;
+height:auto;
+background-color : #3A3735;
+color : white;
+}
+
+br{
+	padding:10px;
+}
+
+p{
+	text-indent:10px;
+}
